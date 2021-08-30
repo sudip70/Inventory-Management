@@ -1,0 +1,13 @@
+1002,D90 DX,Camera,Nikon,84000,10,Medium,
+1003,NEX - 5T,Camera,Sony,244000,5,High,
+1004,E03 Rebel,Camera,Canon,16000,14,Medium,
+2002,Ronin,Accessory,Canon,105000,8,High,
+3002,Telephoto,Accessory,Canon,140000,15,High,
+3003,Wide,Accessory,Sony,72000,9,Medium,
+3004,Macro,Accessory,Nikon,38000,60,Low,
+3005,Wide,Accessory,Sony,140000,14,High,
+3006,Extreme wide,Accessory,Canon,720000,28,High
+4002,Magnus VT-300,Accessory,Nikon,54000,13,Medium,
+4003,Magnus VT-4000,Accessory,Nikon,88000,19,High,
+5002,Ringlight,Accessory,Nikon,24000,20,Low,
+5003,Microbeam LED,Accessory,Sony,54000,7,Medium
